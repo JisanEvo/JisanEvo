@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jisanevo&label=Profile%20views&color=0e75b6&style=flat" alt="jisanevo" /> </p>
 
-<p align="ceter"> <a href="https://twitter.com/jisanevo" target="blank"><img src="https://img.shields.io/twitter/follow/jisanevo?logo=twitter&style=for-the-badge" alt="jisanevo" /></a> </p>
 
  <h3 align="center"> -🌱 I’m currently learning **React Native**</h3>
 
