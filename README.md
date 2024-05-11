@@ -1,6 +1,7 @@
 <h1 align="center"> I'm Jisan Mahmud</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img src="https://i.postimg.cc/zBmb1fKt/b313a9-89ebec0c5f384c65a9551f0c1ec18ca9-mv2.gif"/>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisanevo&label=Profile%20views&color=0e75b6&style=flat" alt="jisanevo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jisanevo" target="blank"><img src="https://img.shields.io/twitter/follow/jisanevo?logo=twitter&style=for-the-badge" alt="jisanevo" /></a> </p>
