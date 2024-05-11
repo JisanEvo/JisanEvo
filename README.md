@@ -5,9 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jisanevo&label=Profile%20views&color=0e75b6&style=flat" alt="jisanevo" /> </p>
 
 
- <h3 align="center"> -🌱 I’m currently learning **React Native**</h3>
+ <h2 align="center"> -🌱 I’m currently learning **React Native**</h2>
 
-<h3 align="center">- 💬 Ask me about **React,MERN**</h3>
+<h5 align="center">- 💬 Ask me about **React,MERN**</h5>
 
 <h3 align="center">- 📫 How to reach me **jesanmahmud6@gmail.com** </h3>
 
